@@ -26,11 +26,11 @@ import com.bradrydzewski.gwt.calendar.client.event.HasDaySelectionHandlers;
 import com.bradrydzewski.gwt.calendar.client.event.HasWeekSelectionHandlers;
 import com.bradrydzewski.gwt.calendar.client.event.WeekSelectionEvent;
 import com.bradrydzewski.gwt.calendar.client.event.WeekSelectionHandler;
+import com.google.gwt.dom.client.Element;
 import com.google.gwt.event.dom.client.ClickEvent;
 import com.google.gwt.event.dom.client.ClickHandler;
 import com.google.gwt.event.shared.GwtEvent;
 import com.google.gwt.event.shared.HandlerRegistration;
-import com.google.gwt.user.client.Element;
 import com.google.gwt.user.client.Event;
 import com.google.gwt.user.client.ui.Label;
 
